@@ -9,4 +9,4 @@
 + designshack: The 10 Best Script and Handwritten Google Fonts [link](https://designshack.net/articles/css/the-10-best-script-and-handwritten-google-web-fonts/)
 
 ## Notes for instructor
-n/a
+Thank you for the review!
