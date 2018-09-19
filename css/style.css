@@ -1,0 +1,58 @@
+h1 {
+	font: 400 57px/0.8 'Cookie', Helvetica, sans-serif;
+    color: #707070;
+    text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+	font-style: italic;
+	text-align: center;
+}
+
+h2.self_intro {
+	font: 400 37px/0.8 'Cookie', Helvetica, sans-serif;
+    color: #707070;
+    text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+	font-style: italic;
+}
+
+h2.quotes {
+    font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	color: #707070;
+}
+
+p {
+    font-family: "Century Gothic", Arial, Helvetica;
+}
+
+p.quote_font {
+	font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+	font-size: 17px;
+}
+
+.img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	border-radius: 50%;
+	width: 270px;
+	height: auto;
+    float: right;	
+}
+
+div.clearfix {
+	margin: auto;
+    max-width: 1000px;
+    height: auto;
+    border: 4px dotted coral;
+	padding: 15px;
+	border-radius: 25px;
+	overflow: auto;
+}
+
+div.quotes {
+	margin: auto;
+	background-image: linear-gradient(white, #F5DEB3);
+	border-radius: 7px;
+	max-width: 1000px;
+	padding: 3px 15px 5px 30px;
+}
